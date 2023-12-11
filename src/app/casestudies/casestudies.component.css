@@ -1,0 +1,16 @@
+li{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 6px;
+}
+
+.texts{
+    display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+}
+
+img{
+    border: 2px solid black;
+}
